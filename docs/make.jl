@@ -9,6 +9,7 @@
 using Documenter: Documenter
 using DocumenterMermaid: DocumenterMermaid
 using ITensorDocsNext: ITensorDocsNext
+using ITensorFormatter: ITensorFormatter
 using MultiDocumenter: MultiDocumenter
 
 clonedir = ("--temp" in ARGS) ? mktempdir() : joinpath(@__DIR__, "clones")
