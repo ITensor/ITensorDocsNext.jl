@@ -89,7 +89,7 @@ MultiDocumenter.make(
     search_engine = MultiDocumenter.SearchConfig(;
         index_versions = ["stable"], engine = MultiDocumenter.FlexSearch
     ),
-    rootpath = "/ITensorDocsNext/",
+    rootpath = "/ITensorDocsNext.jl/",
     canonical_domain = "https://itensor.github.io/",
     sitemap = true,
     assets_dir = "docs/src/assets",
