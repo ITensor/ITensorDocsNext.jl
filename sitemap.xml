@@ -4,8 +4,8 @@
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/BackendSelection/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/BlockSparseArrays/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/BlockSparseArrays/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/dev/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/dev/reference/</loc></url>
+<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/</loc></url>
+<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/library/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/reference/</loc></url>
@@ -27,8 +27,8 @@
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/MapBroadcast/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedDimsArrays/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedDimsArrays/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/dev/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/dev/reference/</loc></url>
+<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/stable/</loc></url>
+<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/SparseArraysBase/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/SparseArraysBase/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/TensorAlgebra/stable/</loc></url>
