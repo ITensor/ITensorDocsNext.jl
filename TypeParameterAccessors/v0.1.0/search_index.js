@@ -1,3 +1,0 @@
-var documenterSearchIndex = {"docs":
-[{"location":"#TypeParameterAccessors.jl","page":"Home","title":"TypeParameterAccessors.jl","text":"(Image: Stable) (Image: Dev) (Image: Build Status) (Image: Coverage) (Image: Code Style: Blue) (Image: Aqua)","category":"section"},{"location":"#Installation-instructions","page":"Home","title":"Installation instructions","text":"julia> using Pkg: Pkg\n\njulia> Pkg.add(\"https://github.com/ITensor/TypeParameterAccessors.jl\")","category":"section"},{"location":"#Examples","page":"Home","title":"Examples","text":"using TypeParameterAccessors: TypeParameterAccessors\n\nExamples go here.\n\n\n\nThis page was generated using Literate.jl.","category":"section"}]
-}

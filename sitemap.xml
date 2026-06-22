@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/BackendSelection/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/BackendSelection/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/BlockSparseArrays/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/BlockSparseArrays/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/library/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DiagonalArrays/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/FunctionImplementations/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/FunctionImplementations/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/FusionTensors/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/FusionTensors/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/GradedArrays/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/GradedArrays/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/ITensorBase/stable/</loc></url>
@@ -21,19 +10,10 @@
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/ITensorNetworksNext/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/ITensorPkgSkeleton/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/ITensorPkgSkeleton/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/KroneckerArrays/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/KroneckerArrays/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/MapBroadcast/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/MapBroadcast/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedDimsArrays/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedDimsArrays/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/NamedGraphs/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/SparseArraysBase/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/SparseArraysBase/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/TensorAlgebra/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/TensorAlgebra/stable/reference/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/TypeParameterAccessors/stable/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/TypeParameterAccessors/stable/lib/</loc></url>
-<url><loc>https://itensor.github.io/ITensorDocsNext.jl/TypeParameterAccessors/stable/type_interface/</loc></url>
 </urlset>
