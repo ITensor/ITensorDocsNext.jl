@@ -67,7 +67,7 @@ docs = [
     ),
     MultiDocumenter.DropdownNav(
         "Developer Tools",
-        itensor_multidocref.(["ITensorPkgSkeleton", "ITensorFormatter"])
+        itensor_multidocref.(["ITensorFormatter", "ITensorPkgSkeleton"])
     ),
 ]
 
