@@ -66,7 +66,8 @@ docs = [
         "Graph Libraries", itensor_multidocref.(["NamedGraphs", "DataGraphs"])
     ),
     MultiDocumenter.DropdownNav(
-        "Developer Tools", itensor_multidocref.(["ITensorPkgSkeleton"])
+        "Developer Tools",
+        itensor_multidocref.(["ITensorPkgSkeleton", "ITensorFormatter"])
     ),
 ]
 
