@@ -7,5 +7,4 @@ graph TD
     DataGraphs --> NamedGraphs(NamedGraphs.jl)
     ITensorBase --> TensorAlgebra(TensorAlgebra.jl)
     GradedArrays(GradedArrays.jl) --> TensorAlgebra
-    GradedArrays --> SparseArraysBase(SparseArraysBase.jl)
 ```
