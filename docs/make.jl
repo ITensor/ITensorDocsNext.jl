@@ -26,7 +26,9 @@ Documenter.makedocs(;
     modules = [ITensorDocsNext],
     warnonly = true,
     format = Documenter.HTML(; assets = ["assets/favicon.ico", "assets/extras.css"]),
-    pages = ["index.md", "ecosystem_overview.md", "upgrade_guide.md"]
+    # `upgrade_guide.md` is kept in source but left out of the nav until it gets a
+    # rewrite to match the current next-generation API.
+    pages = ["index.md", "ecosystem_overview.md"]
 )
 
 @info "Building aggregate ITensorDocsNext site"
@@ -50,36 +52,21 @@ docs = [
         "Tensor Network Libraries", itensor_multidocref.(["ITensorNetworksNext"])
     ),
     MultiDocumenter.DropdownNav(
-        "Array Libraries",
+        "Tensor Libraries",
         itensor_multidocref.(
             [
                 "ITensorBase",
-                "NamedDimsArrays",
                 "TensorAlgebra",
-                "BlockSparseArrays",
+                "GradedArrays",
                 "SparseArraysBase",
-                "DiagonalArrays",
-                "KroneckerArrays",
             ]
         )
-    ),
-    MultiDocumenter.DropdownNav(
-        "Symmetric Tensors", itensor_multidocref.(["FusionTensors", "GradedArrays"])
     ),
     MultiDocumenter.DropdownNav(
         "Graph Libraries", itensor_multidocref.(["NamedGraphs", "DataGraphs"])
     ),
     MultiDocumenter.DropdownNav(
-        "Developer Tools",
-        itensor_multidocref.(
-            [
-                "FunctionImplementations",
-                "TypeParameterAccessors",
-                "MapBroadcast",
-                "BackendSelection",
-                "ITensorPkgSkeleton",
-            ]
-        )
+        "Developer Tools", itensor_multidocref.(["ITensorPkgSkeleton"])
     ),
 ]
 
