@@ -25,7 +25,9 @@ Documenter.makedocs(;
     sitename = "ITensor ecosystem docs",
     modules = [ITensorDocsNext],
     warnonly = true,
-    format = Documenter.HTML(; assets = ["assets/favicon.ico", "assets/extras.css"]),
+    format = Documenter.HTML(;
+        assets = ["assets/favicon.ico", "assets/extras.css", "assets/mermaid.js"]
+    ),
     # `upgrade_guide.md` is kept in source but left out of the nav until it gets a
     # rewrite to match the current next-generation API.
     pages = ["index.md", "ecosystem_overview.md"]
@@ -58,7 +60,6 @@ docs = [
                 "ITensorBase",
                 "TensorAlgebra",
                 "GradedArrays",
-                "SparseArraysBase",
             ]
         )
     ),
