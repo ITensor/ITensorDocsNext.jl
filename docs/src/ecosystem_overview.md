@@ -1,7 +1,5 @@
 # ITensor Ecosystem Overview
 
-The dotted arrow is an optional dependency, loaded through a package extension.
-
 ```mermaid
 graph BT
     ITensorBase(ITensorBase.jl) --> ITensorNetworksNext(ITensorNetworksNext.jl)
@@ -11,3 +9,5 @@ graph BT
     TensorAlgebra --> GradedArrays(GradedArrays.jl)
     GradedArrays -.-> ITensorBase
 ```
+
+Arrows point from a package to the packages that depend on it. Dotted arrows are weak dependencies, loaded through package extensions.
