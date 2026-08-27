@@ -1,6 +1,6 @@
 # ITensor Ecosystem Overview
 
-Arrows point from a package to the packages that depend on it. The dotted arrow is an optional dependency, loaded through a package extension.
+The dotted arrow is an optional dependency, loaded through a package extension.
 
 ```mermaid
 graph BT
