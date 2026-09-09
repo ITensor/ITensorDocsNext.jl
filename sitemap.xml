@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/</loc></url>
+<url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/changelog/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/DataGraphs/stable/reference/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/GradedArrays/stable/</loc></url>
 <url><loc>https://itensor.github.io/ITensorDocsNext.jl/GradedArrays/stable/internals/</loc></url>
